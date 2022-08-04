@@ -6,5 +6,15 @@
   "repository": "https://github.com/athulmurali/togo.git",
   "author": "Athul Muralidharan <athul.muralidharan@oracle.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "venmo-typescript": "^2.0.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
