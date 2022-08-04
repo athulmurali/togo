@@ -1,0 +1,10 @@
+{
+  "name": "togo",
+  "version": "1.0.0",
+  "description": "A opens source foodpay app to place orders with auto venmo requests",
+  "main": "index.js",
+  "repository": "https://github.com/athulmurali/togo.git",
+  "author": "Athul Muralidharan <athul.muralidharan@oracle.com>",
+  "license": "MIT",
+  "private": false
+}
