@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "dotenv": "^16.0.1",
     "venmo-typescript": "^2.0.1"
   },
   "type": "module",
@@ -15,6 +16,7 @@
     "start": "node index.ts"
   },
   "devDependencies": {
+    "@types/node": "^18.6.3",
     "typescript": "^4.7.4"
   }
 }

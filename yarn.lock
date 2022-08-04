@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+"@types/node@^18.6.3":
+  version "18.6.3"
+  resolved "https://artifactory.oci.oraclecorp.com:443/api/npm/global-dev-npm/@types/node/-/node-18.6.3.tgz#4e4a95b6fe44014563ceb514b2598b3e623d1c98"
+  integrity sha1-TkqVtv5EAUVjzrUUslmLPmI9HJg=
+
+dotenv@^16.0.1:
+  version "16.0.1"
+  resolved "https://artifactory.oci.oraclecorp.com:443/api/npm/global-dev-npm/dotenv/-/dotenv-16.0.1.tgz#8f8f9d94876c35dac989876a5d3a82a267fdce1d"
+  integrity sha1-j4+dlIdsNdrJiYdqXTqComf9zh0=
+
 typescript@^4.7.4:
   version "4.7.4"
   resolved "https://artifactory.oci.oraclecorp.com:443/api/npm/global-dev-npm/typescript/-/typescript-4.7.4.tgz#1a88596d1cf47d59507a1bcdfb5b9dfe4d488235"

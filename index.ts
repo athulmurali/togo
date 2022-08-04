@@ -1,5 +1,10 @@
+import { config as configDotenv } from "dotenv";
+
 import { Venmo } from "venmo-typescript";
 
+export interface ProcessEnv {
+  [key: string]: string | undefined;
+}
 // Create a venmo client.
 // Reference : https://github.com/austenstone/venmo-typescript
 
